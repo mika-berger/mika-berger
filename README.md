@@ -36,3 +36,8 @@ Facts about Mika:
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mika-berger?color=blue&logo=github">
   </a>
 </p>
+
+
+![Flavio Lenz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mika-berger&theme=blue-green&count_private=true&include_all_commits=true&show_icons=true&hide=prs,issues)
+<br>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mika-berger&theme=blue-green&layout=compact) -->
