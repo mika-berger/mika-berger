@@ -38,6 +38,6 @@ Facts about Mika:
 </p>
 
 
-![Flavio Lenz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mika-berger&theme=blue-green&count_private=true&include_all_commits=true&show_icons=true&hide=prs,issues)
+![Flavio Lenz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mika-berger&theme=blue-red&count_private=true&include_all_commits=true&show_icons=true&hide=prs,issues)
 <br>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mika-berger&theme=blue-green&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mika-berger&theme=blue-red&layout=compact)
