@@ -16,13 +16,13 @@ Facts about Mika:
 
 ---
 
-![Languages](https://skillicons.dev/icons?i=html,css,lua)
+![Languages](https://skillicons.dev/icons?i=html,css,lua)<p>
 &nbsp;&nbsp; 
-<p>![Skills](https://skillicons.dev/icons?i=linux,azure)
-&nbsp;&nbsp; </p>
+![Skills](https://skillicons.dev/icons?i=linux,azure)<p>
+&nbsp;&nbsp;
 ![Tools](https://skillicons.dev/icons?i=git,vscode,azure)
-&nbsp;&nbsp; 
-![Software](https://skillicons.dev/icons?i=premiere,aftereffects,photoshop,discord,figma)
+&nbsp;&nbsp;
+![Software](https://skillicons.dev/icons?i=premiere,aftereffects,photoshop,discord,figma)<p>
 
 ---
 
