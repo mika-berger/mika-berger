@@ -18,9 +18,6 @@ Facts about Mika:
 
 ## Languages
 ![Languages](https://skillicons.dev/icons?i=html,css,lua)<p>
-  
-## Skills
-![Skills](https://skillicons.dev/icons?i=linux,azure)<p>
 
 ## Tools
 ![Tools](https://skillicons.dev/icons?i=git,vscode,azure)<p>
