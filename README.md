@@ -1,8 +1,9 @@
 ### Hi there, I'm Mika 👋
 
-Facts about me:
+---
 
-<!-- - 💻 IT-Apprentice @ Bühler Group -->
+Facts about Mika:
+
 - 🏡 Germany
 - 🍰 16y/o
 
@@ -17,8 +18,8 @@ Facts about me:
 
 ![Languages](https://skillicons.dev/icons?i=html,css,lua)
 &nbsp;&nbsp; 
-![Skills](https://skillicons.dev/icons?i=linux,azure)
-&nbsp;&nbsp; 
+<p>![Skills](https://skillicons.dev/icons?i=linux,azure)
+&nbsp;&nbsp; </p>
 ![Tools](https://skillicons.dev/icons?i=git,vscode,azure)
 &nbsp;&nbsp; 
 ![Software](https://skillicons.dev/icons?i=premiere,aftereffects,photoshop,discord,figma)
