@@ -6,7 +6,7 @@ Facts about me:
 
 ---
 
-- 💻 IT-Apprentice @ Bühler Group
+<!-- - 💻 IT-Apprentice @ Bühler Group -->
 - 🏡 Germany
 - 🍰 16y/o
 
