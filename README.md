@@ -26,7 +26,7 @@ Facts about me:
 -->
 ---
 
-<p align="center">
+<p align="left">
   <a>
     <img src="https://komarev.com/ghpvc/?username=mika-berger" alt="page views" />
   </a>
