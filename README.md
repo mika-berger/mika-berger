@@ -11,8 +11,8 @@ Facts about me:
 - 💁 Personal Website (https://mika-berger.de)
 
 #### Finished projects:
-- Musicvideo for Colosow1: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DRrtLAUuymo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- Musicvideo for Colosow1: (https://www.youtube.com/watch?v=DRrtLAUuymo)
+
 ---
 
 ![Languages](https://skillicons.dev/icons?i=html,css,lua)
