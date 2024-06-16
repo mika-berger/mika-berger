@@ -5,7 +5,7 @@
 Facts about Mika:
 
 - 🏡 Germany
-- 🍰 16y/o
+- 🍰 17y/o
 
 ---
 #### Working on:
