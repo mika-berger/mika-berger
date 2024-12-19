@@ -9,10 +9,9 @@ Facts about Mika:
 
 ---
 
-#### Currentyl working on:
+#### Currently working on:
 - 💁 Personal Website (https://mikaberger.de)
-- 💬 Discord Alternative: (https://nexusapp.cloud)
-- 💻 WebHosting Company:  (https://nexushosting.cloud)
+- 💻 Nexus Solutions: (https://cloudsolutions.nexus)
 
 ---
 
